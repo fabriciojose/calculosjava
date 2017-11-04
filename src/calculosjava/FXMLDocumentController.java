@@ -26,6 +26,7 @@ public class FXMLDocumentController implements Initializable {
         System.out.println("You clicked me!");
         label.setText("Hello World!");
         System.out.println("Olá Mundo GIT!!!");
+        System.out.println("Terceira modificação git");
     }
     
     @Override
